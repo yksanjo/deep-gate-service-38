@@ -1,5 +1,12 @@
 # deep-gate-service-38
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/deep-gate-service-38/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/deep-gate-service-38/actions)
+![License](https://img.shields.io/github/license/yksanjo/deep-gate-service-38)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/deep-gate-service-38)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/deep-gate-service-38)
+
 ## Detailed Description
 
 deep-gate-service-38 is maintained as an industry-grade software project with production-ready engineering practices.  
